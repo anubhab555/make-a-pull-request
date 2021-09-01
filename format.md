@@ -1,5 +1,5 @@
-# Anubhab Maharana
+# [Your Name]
 
-## 3rd Year, Electronics and Instrumentation Engineering
+## [Your Year and Stream]
 
-## C, C++, JAVA
+## [Add the languages/frameworks you work on comma separated]
